@@ -21,7 +21,7 @@ app.use("/api/basket",require("./routers/basketRouter"))
 mongoose.connection.once('open',()=>{
     console.log("connect to mongoDB")
     app.listen(PORT,()=>{
-        console.log(`run on port: ${PORT}`)
+        console.log(`server runing on port: ${PORT}`)
     })
 })
 mongoose.connection.on('error',err=>{console.log(err)})
