@@ -27,6 +27,7 @@
 **BabyDreams Store** is a modern, full-stack web application designed to provide parents with the most delightful online shopping experience for their little ones. From soft newborn onesies to magical Disney collections, every product is curated with care.
 
 The platform features a complete shopping workflow: browse categories, view individual products, manage a personal basket, and authenticate securely — all wrapped in a beautiful, responsive interface.
+<img width="1917" height="910" alt="20260521021907828" src="https://github.com/user-attachments/assets/9d72fb98-2eaf-46cb-a82e-a391aefeffd4" />
 
 ---
 
